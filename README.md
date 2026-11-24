@@ -1,3 +1,2 @@
-# MyFirstRepo
-This is my first github project.
-Updated by Khushi .
+# My First Repository
+This is my first GitHub project.
